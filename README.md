@@ -1,4 +1,4 @@
-![Header](header-gHUb.png)
+![Header](header.png)
 
 <img align="right" alt="GIF" src="Art-flying.gif" width="350"/>
 
@@ -116,7 +116,7 @@
 - [Youtube Retention](https://growth.design/case-studies/youtube-user-retention)
 - [Transformers: State-of-the-Art Natural Language Processing](https://aclanthology.org/2020.emnlp-demos.6/)
 - [you keep me up at night](https://www.peachmgzn.com/angie-sijun-lou)
-- [Kafka on theShore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
+- [Kafka on the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  

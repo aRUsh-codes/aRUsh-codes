@@ -113,7 +113,7 @@
 ## What I've been reading lately  
 <!-- BLOG-POST-LIST:START -->
 - [Attention is all you need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
-- [Youtube Retention](https://growth.design/case-studies/youtube-user-retention)
+- [Visual PDF Reader: ColPALI](https://arxiv.org/pdf/2407.01449v2)
 - [Transformers: State-of-the-Art Natural Language Processing](https://aclanthology.org/2020.emnlp-demos.6/)
 - [you keep me up at night](https://www.peachmgzn.com/angie-sijun-lou)
 - [Kafka on the Shore](https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore)

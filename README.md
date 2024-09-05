@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="Art-flying.gif" width="350"/>
 
 
-### <div align="left">👨‍💻 Pre-Final year B.Tech student, creatively carving my way into tech.</div>  
+### <div align="left">👨‍💻 Final year B.Tech student, creatively carving my way into tech.</div>  
 
 
 🤖 Machine Learning, Deep Learning, and Data Enthusiast. 

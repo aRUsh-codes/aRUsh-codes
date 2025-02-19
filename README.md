@@ -51,7 +51,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="35" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="35" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="35" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="35" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="35" /></a>
  
 </div>  
@@ -68,7 +68,9 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas" height="35" /></a>
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" height="35" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="35" /></a>
+<a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-lang%20chain-1C3C3C?style=for-the-badge&logo=lang-chain&logoColor=white" alt="lang-chain" height="35" /></a>
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" height="35" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-React.Js-61DAFB?style=for-the-badge&logo=React&logoColor=white" alt="React" height="35" /></a>
 <a href="https://www.tensorflow.org" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="Tensorflow" height="35" /></a>
 </div>
 
@@ -100,6 +102,9 @@
 </a>
 <a href="https://linkedin.com/in/aarush-raj" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@aarush-raj" target="_blank">
+<img src=https://img.shields.io/badge/medium-%FFFFF.svg?&style=for-the-badge&logo=medium&logoColor=white alt=meidum style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.figma.com/@rushdesigns" target="_blank">
 <img src=https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />

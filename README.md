@@ -10,7 +10,7 @@
 
 
 
-🐍 Efficiently relies on Python and C++ to craft solutions.  
+🐍 Efficiently relies on Javascript frameworks, Python, and C++ to craft solutions.  
 
 
 

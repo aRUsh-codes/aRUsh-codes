@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="Art-flying.gif" width="350"/>
 
 
-### <div align="left">👨‍💻 Final year B.Tech student, creatively carving my way into tech.</div>  
+### <div align="left">👨‍💻  Computer Science grad, creatively carving my way into tech.</div>  
 
 
 🤖 Machine Learning, Deep Learning, and Data Enthusiast. 
@@ -38,7 +38,7 @@
 
 <div align = 'center' >
   <h2> Click Here To View My Resume </h2>
- <a href="https://drive.google.com/file/d/18fblU_C8upPml54ebQNdollt7l0RJ7SG/view?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/18nycYu0UKc8f9ECc4WU91fQHj7qeJYQ5/view?usp=sharing" target="_blank">
  <img src="https://img.shields.io/badge/resume-000000?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
  </a>
 </div>

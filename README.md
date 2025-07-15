@@ -6,11 +6,11 @@
 ### <div align="left">👨‍💻  Computer Science grad, creatively carving my way into tech.</div>  
 
 
-🤖 Machine Learning, Deep Learning, and Data Enthusiast. 
+🤖 Machine Learning, AI, Deep Learning, and Data Enthusiast. 
 
 
 
-🐍 Efficiently relies on Javascript frameworks, Python, and C++ to craft solutions.  
+🐍 Efficiently relies on Javascript frameworks (Node,Next,React), Python, and C++ to craft solutions.  
 
 
 
